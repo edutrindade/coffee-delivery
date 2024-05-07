@@ -23,7 +23,7 @@ Após a instalação das dependências, você pode iniciar o servidor de desenvo
 npm run dev
 ```
 
-O projeto poderá ser visualizado em **http://localhost:5173/**.
+Localmente, o projeto poderá ser visualizado em **http://localhost:5173/**.
 
 ## Sobre o Projeto
 
